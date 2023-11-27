@@ -1,0 +1,13 @@
+{
+    "tile1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP8P8P8PAADw8fHw/g8AAP8R8f/+D/Dw9RHx9e7/H/BV/1/17l8f8PXx8fXuXx/w9RHx9f9fH/BV/19VVVUf8FVVVVVVVR8A////////HwAAAPBV9QDwAAAAAP8PAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "homer"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
