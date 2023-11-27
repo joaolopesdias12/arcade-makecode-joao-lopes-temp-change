@@ -1,5 +1,6 @@
 {
     "name": "temp change joao lopes",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "device": "*"
